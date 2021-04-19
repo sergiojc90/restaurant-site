@@ -1,6 +1,6 @@
 # Restaurant page
 
-➡️: Página de inicio (index.html)
+➡️ Página de inicio (index.html)
 
 **Estilos:**
  - style.css
@@ -12,7 +12,7 @@
   - [aos.js](https://michalsnik.github.io/aos/ "aos.js")
   - script.js
   
-➡️: Página de autenticación (login - login.html)
+➡️ Página de autenticación (login - login.html)
 
 **Estilos:**
 - login.css
@@ -22,7 +22,7 @@
   - [aos.js](https://michalsnik.github.io/aos/ "aos.js")
   - script.js
  
-➡️: Backend con Spring Boot:
+➡️ Backend con Spring Boot:
 
 **Direcciones**
  - /login
