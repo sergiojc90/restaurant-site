@@ -20,7 +20,7 @@
 
 **JavaScript:**
   - [aos.js](https://michalsnik.github.io/aos/ "aos.js")
-  - script.js
+  - login.js
  
 ➡️ Backend con Spring Boot:
 
