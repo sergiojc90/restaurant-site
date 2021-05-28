@@ -22,7 +22,7 @@
   - [aos.js](https://michalsnik.github.io/aos/ "aos.js")
   - login.js
  
-➡️ Backend con Spring Boot:
+➡️ Backend con Java y Spring Boot (/demo):
 
 **Direcciones**
  - /login
